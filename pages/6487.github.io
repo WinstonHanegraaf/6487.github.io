@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <style>
+    header {
+      text-align: center;
+      background: Red;
+      background-size: cover;
+      color: white;
+    }
+    a {
+      color: white;
+    }
+    h1 {
+      font-size: 70px;
+  }
+    ul {
+      padding: 10px; 
+      background: black;
+    }
+    li {
+      display: inline;
+      padding: 0px 10px 0px 10px;
+  }
+  </style>
+</head>
+<body>
+    <header>
+    <img src="assets/LOGO_PSV_stars_2020_RGB.png" width="169">
+    <h1>PSV</h1>
+    <ul>
+      <li><a href="pages/club.html">Over de club</a></li>
+      <li><a href="pages/fanstore.html">Fanstore</a></li>
+      <li><a href="pages/schema.html">Uitslagen en schema</a></li>
+      <li><a href="pages/selectie.html">Selectie</a></li>
+      <li><a href="pages/prijzen.html">Prijzen</a></li>
+    </ul>
+  </header>
+ </body>
+</html>
